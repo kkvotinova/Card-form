@@ -1,0 +1,20 @@
+.card-num {
+  background-repeat: no-repeat;
+  background-position: center right;
+  background-size: contain;
+}
+.card-mir {
+  background-image: url('../src/assets/images/Mir.png');
+  background-size: 65px 18px;
+}
+
+.card-visa {
+  background-image: url('../src/assets/images/Visa.png');
+}
+.card-master {
+  background-image: url('../src/assets/images/MasterCard.png');
+}
+
+.col-md-2-2 {
+  width: 235px;
+}
