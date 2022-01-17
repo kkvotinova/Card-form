@@ -1,5 +1,3 @@
-# Card-form
-
 ## Start
 ```
 git clone https://github.com/kkvotinova/Card-form.git
